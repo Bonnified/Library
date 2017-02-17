@@ -1,3 +1,2 @@
 # Library
-Media Library
-Site for organizing a personal media library
+Media Library - Site for organizing a personal media library
